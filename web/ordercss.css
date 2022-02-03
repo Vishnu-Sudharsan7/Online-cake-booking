@@ -1,0 +1,29 @@
+.title{
+	width: 80%;
+	max-width: 550px;
+	margin: 40px auto;
+	color: #8F0064;
+	font-family: 'Playball', cursive;
+	font-size: 45px;
+	font-weight: 700;
+}
+
+form{
+	border: 15px solid #755737;
+	width: 80%;
+	max-width: 700px;
+	margin: 40px auto;
+	padding: 10px;
+	background: rgba(255, 145, 222, 0.8);
+}
+
+body{
+	background: url(https://images.pexels.com/photos/959079/pexels-photo-959079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-size: 1550px 950px;
+	background-repeat: no-repeat;
+}
+
+small{
+	color: #000000;
+	font-weight: bold;
+}
